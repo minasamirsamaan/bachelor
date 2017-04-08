@@ -33,5 +33,4 @@ var register = function(userpassword){
 //     console.log('Passwordhash = '+passwordData.passwordHash);
 //     console.log('UserSalt = '+passwordData.salt);
 // };
-// saltHashPassword("minaishere");
-// sha512("minaishere","b6c6bcbe6d98d45e")
+
